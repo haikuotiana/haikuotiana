@@ -1,3 +1,4 @@
+### Hi there 👋
 <!-- - 👋 Hi, I’m @haikuotiana
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,9 +10,10 @@ haikuotiana/haikuotiana is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=zhangjichengcc)
-### Hi there 👋
 - 😄 I’m ZhangXiaoQi
 - 📫 email：13120261278@163.com
+
+---
 <div>
   <a href="https://haikuotiana.github.io/">
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikuotiana&layout=compact" />
