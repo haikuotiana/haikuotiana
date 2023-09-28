@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://komarev.com/ghpvc/?username=zhangjichengcc)
-- 😄 I’m ZhangXiaoQi
-- 📫 email：13120261278@163.com
+- 😄 I’m Fearless
 
 ---
 
